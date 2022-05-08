@@ -5,7 +5,7 @@
 //     console.info('')
 // }
 
-/* var number = +prompt ('yowini kirit')
+ var number = +prompt ('yowini kirit')
 
  if (number > 0 && number <= 18){
     alert ('oqi')
@@ -22,10 +22,10 @@ else if (number > 18 && number <= 50) {
 }else{
     console.info('Qarab yoz hato qlding gaady!')
 }
- */
+ 
 
 
- var time = +prompt('Sogot nechi bo\'ldi')
+/* var time = +prompt('Sogot nechi bo\'ldi')
 if(time > 0 && time <=3 ){
     alert('sogot tungi ' + time )
 
@@ -49,7 +49,7 @@ if(time > 0 && time <=3 ){
 
 }else{
     console.error('Xato kritingiz!')
-} 
+}  */
 
 
 
