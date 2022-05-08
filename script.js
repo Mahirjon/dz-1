@@ -54,7 +54,7 @@ if(time > 0 && time <=3 ){
 
 
 
-/*  
+/*```  
 var num1 = +prompt('Birinchi soni kiriting!')
 var num2 = +prompt('Ikkinchi soni kiriting!')
 var num3 = +prompt('Uchinchi soni kiriting!')
@@ -99,14 +99,4 @@ if ((num2 < num1 && num1 > num3 )|| (num1 > num2 && num1 < num3)  && !isNaN(num1
     }
 }
   
-
-
-
-
-
-
-
-
-
-
 
