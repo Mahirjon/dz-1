@@ -24,8 +24,8 @@ else if (number > 18 && number <= 50) {
 }
  */
 
-
-/* var time = +prompt('Sogot nechi bo\'ldi')
+/* 
+ var time = +prompt('Sogot nechi bo\'ldi')
 if(time > 0 && time <=3 ){
     alert('sogot tungi ' + time )
 
@@ -51,10 +51,6 @@ if(time > 0 && time <=3 ){
     console.error('Xato kritingiz!')
 } */
 
-
-
-
-/*```  
 var num1 = +prompt('Birinchi soni kiriting!')
 var num2 = +prompt('Ikkinchi soni kiriting!')
 var num3 = +prompt('Uchinchi soni kiriting!')
@@ -99,4 +95,3 @@ if ((num2 < num1 && num1 > num3 )|| (num1 > num2 && num1 < num3)  && !isNaN(num1
     }
 }
   
-
