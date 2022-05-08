@@ -24,7 +24,7 @@ else if (number > 18 && number <= 50) {
 }
  */
 
-/
+
  var time = +prompt('Sogot nechi bo\'ldi')
 if(time > 0 && time <=3 ){
     alert('sogot tungi ' + time )
